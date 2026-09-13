@@ -1,10 +1,10 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30,33,38,45,52,59&height=120&section=header&text=Hi%20there,%20I'm%20ll0v0ll%20👋&fontSize=32&fontColor=FFFFFF&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30,33,38,45,52,59&height=120&section=header&text=Hi%20there,%20I'm%20Troy%20👋&fontSize=32&fontColor=FFFFFF&animation=fadeIn" alt="Header" />
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
   
-  <img src="https://komarev.com/ghpvc/?username=Troy&label=Profile%20Views&color=58A6FF&style=flat-square&logo=github" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ll0v0ll&label=Profile%20Views&color=58A6FF&style=flat-square&logo=github" alt="Profile Views" />
   
 </div>
 
