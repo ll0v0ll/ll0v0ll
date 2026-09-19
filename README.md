@@ -12,10 +12,6 @@
 
 ## About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ll0v0ll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&hide=issues,contribs&card_width=400" alt="GitHub Stats" height="200"/>
-</div>
-
 I'm a full-stack developer. I enjoy exploring challenging problems and finding solutions. I'm glad to join open-source teams, keep learning new things, and tackle tough technical issues.
 
 
@@ -27,31 +23,31 @@ I'm a full-stack developer. I enjoy exploring challenging problems and finding s
 
 ---
 
-## 🛠️ Tech Stack
-
+## Tech Stack
+<!-- Skill Icons: https://skillicons.dev/ -->
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,go,rust,cpp,c,swift,kotlin&perline=11" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,cs,js,ts,java,cpp&perline=11" alt="Languages" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,svelte,tailwind,bootstrap,sass&perline=8" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=vue,nextjs,tailwind,bootstrap,sass&perline=8" alt="Frontend" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,express,django,flask,fastapi,graphql&perline=7" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,django,flask,fastapi,dotnet&perline=7" alt="Backend" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,elasticsearch&perline=6" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlserver,sqlite,postgresql,mongodb,redis,elasticsearch&perline=6" alt="Databases" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,nginx,jenkins,githubactions&perline=9" alt="Cloud & DevOps" />
 </p>
