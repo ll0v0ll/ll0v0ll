@@ -49,10 +49,10 @@ I'm a full-stack developer. I enjoy exploring challenging problems and finding s
 
 ### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,nginx,jenkins,githubactions&perline=9" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,nginx,jenkins,githubactions&perline=9" alt="Cloud & DevOps" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,idea,figma,postman&perline=8" alt="Tools" />
 </p>
@@ -61,47 +61,7 @@ I'm a full-stack developer. I enjoy exploring challenging problems and finding s
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ll0v0ll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&card_width=400" alt="Top Languages" height="200"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ll0v0ll&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&card_width=400" alt="GitHub Streak" height="200"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ll0v0ll&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ll0v0ll/ll0v0ll/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ll0v0ll/ll0v0ll/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ll0v0ll/ll0v0ll/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ll0v0ll&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ll0v0ll&theme=tokyonight" alt="Repos per Language" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ll0v0ll&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
----
-
-## 💡 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
@@ -109,36 +69,14 @@ I'm a full-stack developer. I enjoy exploring challenging problems and finding s
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-ll0v0ll-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ll0v0ll)
-  [![Twitter](https://img.shields.io/badge/Twitter-@ll0v0ll-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ll0v0ll)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ll0v0ll-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ll0v0ll)
+  <!-- [![Twitter](https://img.shields.io/badge/Twitter-@ll0v0ll-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ll0v0ll)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ll0v0ll-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ll0v0ll) -->
   [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  
-</div>
-
----
-
-## 🎵 Currently Listening
-
-<div align="center">
-  <a href="https://open.spotify.com/user/your-spotify-id">
-    <img src="https://spotify-readme.vercel.app/api/spotify" alt="Spotify Currently Playing" />
-  </a>
-</div>
-
----
-
-## 🌟 Featured Repositories
-
-<div align="center">
-  
-  <a href="https://github.com/ll0v0ll?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ll0v0ll&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Featured Repo 1" />
-  </a>
   
 </div>
 
