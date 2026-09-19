@@ -10,29 +10,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ll0v0ll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&hide=issues,contribs&card_width=400" alt="GitHub Stats" height="200"/>
 </div>
 
-I'm a passionate developer who loves building innovative solutions and contributing to open source projects. Always eager to learn new technologies and share knowledge with the community.
+I'm a full-stack developer. I enjoy exploring challenging problems and finding solutions. I'm glad to join open-source teams, keep learning new things, and tackle tough technical issues.
 
-- 🔭 Currently working on exciting projects
-- 🌱 Exploring new technologies and frameworks
-- 👯 Open to collaboration on interesting projects
-- 💬 Happy to discuss tech and share experiences
-- ⚡ Fun fact: I believe code is poetry!
 
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ll0v0ll&theme=tokyonight" alt="Profile Summary" />
-  
-</div>
+- Working in AI & development teams, focusing on image recognition, behavior detection, and .NET & Python full-stack development
+- Actively looking for remote roles
+- Open to collaboration on interesting projects
+- Happy to discuss tech and share experiences
+- Fun fact: I enjoy building practical AI systems
 
 ---
 
