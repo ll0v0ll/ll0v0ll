@@ -42,7 +42,7 @@ I'm a full-stack developer. I enjoy exploring challenging problems and finding s
   <img src="https://skillicons.dev/icons?i=nodejs,spring,django,flask,fastapi,dotnet&perline=7" alt="Backend" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlserver,sqlite,postgresql,mongodb,redis,elasticsearch&perline=6" alt="Databases" />
 </p>
